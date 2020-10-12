@@ -1,0 +1,34 @@
+*Задание 1*
+Jupyter Notebook: https://pastenow.ru/608f39354ca77bf77fcc5f6c63d442ce
+
+*Задание 2*
+Общий скрин: https://pastenow.ru/a75ff6075ce1baca8223c814cbfeab69
+
+Введение
+Задание 1 Знакомство с Git commit: https://pastenow.ru/cb1440435936124267dce8a76f7d2f32
+Задание 2 Ветвление в Git: https://pastenow.ru/5339f73e344ae6ff9c38dff1cc5a5ecc
+Задание 3 Слияние веток: https://pastenow.ru/9193515361c1a5429475c40c2fda64d0
+Задание 4 Введение в rebase: https://pastenow.ru/da6bc8a02d526e6adcf9bce0ecfc0e69
+
+Едем дальше
+Задание 1 Detached HEAD: https://pastenow.ru/0ce839b77d11cd67e7e24cdc442ad207
+Задание 2 Относительные ссылки: https://pastenow.ru/6b686ca0099181a2796a2eb45fce90d1
+Задание 3 Относительные ссылки № 2: https://pastenow.ru/def19ec3ab885bb1c427e29a56b5dccc
+Задание 4 Отмена изменений: https://pastenow.ru/5bbe880782e3133c88efa1f010974b2f
+
+Перемещаем труды туда-сюды
+Задание 1 Введение в cherry-pick: https://pastenow.ru/d61b8317c1e27ba47f68d47aaed24100
+Задание 2 Get Interactive Rebase: https://pastenow.ru/9d1c7c902e810d3aca5e9749e14db12a
+
+Удаленные репозитории
+Задание 1 Введение в клонирование: https://pastenow.ru/849068ccd10c292dd46f88bfdfa42890
+Заданте 2 Удаленные ветки: https://pastenow.ru/f99d70ee063ede092400c510e9812cd6
+Задание 3 Git fetch: https://pastenow.ru/37fa17187c08f0ec58ec2f28edd6b062
+Задание 4 Git pull: https://pastenow.ru/ff12b7b1f665b36ab08bac1aa66f56a5
+Задание 5 Коллективная работа: https://pastenow.ru/408352fdbbfe47d8e026602e2cc5e4db
+Задание 6 Git push: https://pastenow.ru/77cbb4a30da41a613fb1225b71c2de64
+Задание 7 Расхождение в истории: https://pastenow.ru/c51ef53d23c23794d2027eb32a7089fa
+Задание 8 Заблокированная ветвь master: https://pastenow.ru/dc5f750bfdaca8132fbf3bf3c613af76
+
+*Задание 3*
+Структура репозитория: https://pastenow.ru/57e03f1bd7f0c93d26207f68bf274ea8
