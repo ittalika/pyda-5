@@ -2,7 +2,7 @@
 Jupyter Notebook: https://pastenow.ru/608f39354ca77bf77fcc5f6c63d442ce
 
 *ЗАДАНИЕ 2*
-Общий скрин: https://pastenow.ru/a75ff6075ce1baca8223c814cbfeab69
+Общий скрин — все выполненные задания: https://pastenow.ru/a75ff6075ce1baca8223c814cbfeab69
 
 Введение
 Задание 1 Знакомство с Git commit: https://pastenow.ru/cb1440435936124267dce8a76f7d2f32
