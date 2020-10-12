@@ -1,7 +1,7 @@
-*Задание 1*
+*ЗАДАНИЕ 1*
 Jupyter Notebook: https://pastenow.ru/608f39354ca77bf77fcc5f6c63d442ce
 
-*Задание 2*
+*ЗАДАНИЕ 2*
 Общий скрин: https://pastenow.ru/a75ff6075ce1baca8223c814cbfeab69
 
 Введение
@@ -30,5 +30,5 @@ Jupyter Notebook: https://pastenow.ru/608f39354ca77bf77fcc5f6c63d442ce
 Задание 7 Расхождение в истории: https://pastenow.ru/c51ef53d23c23794d2027eb32a7089fa
 Задание 8 Заблокированная ветвь master: https://pastenow.ru/dc5f750bfdaca8132fbf3bf3c613af76
 
-*Задание 3*
+*ЗАДАНИЕ 3*
 Структура репозитория: https://pastenow.ru/57e03f1bd7f0c93d26207f68bf274ea8
