@@ -31,4 +31,4 @@ Jupyter Notebook: https://pastenow.ru/608f39354ca77bf77fcc5f6c63d442ce
 Задание 8 Заблокированная ветвь master: https://pastenow.ru/dc5f750bfdaca8132fbf3bf3c613af76
 
 *ЗАДАНИЕ 3*
-Структура репозитория: https://pastenow.ru/57e03f1bd7f0c93d26207f68bf274ea8
+Структура репозитория: https://github.com/ittalika/pyda-5
